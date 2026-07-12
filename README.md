@@ -20,4 +20,3 @@ Great to see you here! A little about me:
 
 🌱 I’m really keen on contributing to open-source.
 
-📫 Feel free to reach out: busolamidev@gmail.com
